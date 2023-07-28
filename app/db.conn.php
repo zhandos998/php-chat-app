@@ -5,7 +5,7 @@ $sName = "localhost";
 # user name
 $uName = "root";
 # password
-$pass = "";
+$pass = "123456789";
 
 # database name
 $db_name = "chat_app_db";
